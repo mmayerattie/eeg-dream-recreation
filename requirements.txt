@@ -1,0 +1,12 @@
+torch
+transformers
+diffusers
+accelerate
+mne
+numpy
+pandas
+matplotlib
+sentence-transformers
+spacy
+bert-score
+tqdm

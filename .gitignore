@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Raw datasets (~8 GB) and large artifacts
+DATA/
+*.edf
+*.fif
+*.pt
+*.pth
+
+# Scratch test files
+eeg_zw_test*

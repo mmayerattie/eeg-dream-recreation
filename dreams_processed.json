@@ -1,0 +1,130 @@
+[
+    {
+        "index": 0,
+        "cleaned_text": "I remember having a really hard figuring out where we should go. And uh, umm...umm...ummm...I'm just having a long, difficult discussion with my parents, and eating is part of it, but umm...I can't remember. It was about someone. It was also about stuff going on with people. It wasn't too. It was kind of serious.",
+        "features": {
+            "people": [],
+            "places": [],
+            "objects": [
+                "a long, difficult discussion",
+                "my parents",
+                "eating",
+                "part",
+                "stuff",
+                "people"
+            ],
+            "actions": [
+                "remember",
+                "figure",
+                "go"
+            ],
+            "emotion": "calm and neutral"
+        },
+        "generated_prompt": "In the dream, the dreamer remember, figure, go. The mood feels calm and neutral. Important objects mentioned include a long, difficult discussion, my parents, eating, part, stuff, people. The dream has a vivid and surreal quality."
+    },
+    {
+        "index": 1,
+        "cleaned_text": "I was trying to find different rooms that could be good for me to..uhh...and that was a problem where we tried finding me rooms and that was difficult because theres so many options to pick from and what kind of rooms you like. That's it.",
+        "features": {
+            "people": [],
+            "places": [],
+            "objects": [
+                "different rooms",
+                "a problem",
+                "rooms",
+                "so many options",
+                "what kind",
+                "rooms"
+            ],
+            "actions": [
+                "find",
+                "like",
+                "uhh",
+                "pick",
+                "s",
+                "try"
+            ],
+            "emotion": "calm and neutral"
+        },
+        "generated_prompt": "In the dream, the dreamer find, like, uhh, pick, s, try. The mood feels calm and neutral. Important objects mentioned include different rooms, a problem, rooms, so many options, what kind, rooms. The dream has a vivid and surreal quality."
+    },
+    {
+        "index": 2,
+        "cleaned_text": "I'm in an argument with a person and I'm actually describing a dream to the other person about who's done it, and...umm they disagree with a decision I made, so they keep going on with the dream. So.. it was a point of contention...its very frustrating, just trying to resolve it calmly.. That's it.",
+        "features": {
+            "people": [],
+            "places": [],
+            "objects": [
+                "an argument",
+                "a person",
+                "a dream",
+                "the other person",
+                "a decision",
+                "the dream",
+                "a point",
+                "contention"
+            ],
+            "actions": [
+                "make",
+                "go",
+                "resolve",
+                "keep",
+                "describe",
+                "disagree",
+                "try"
+            ],
+            "emotion": "calm and neutral"
+        },
+        "generated_prompt": "In the dream, the dreamer make, go, resolve, keep, describe, disagree, try. The mood feels calm and neutral. Important objects mentioned include an argument, a person, a dream, the other person, a decision, the dream, a point, contention. The dream has a vivid and surreal quality."
+    },
+    {
+        "index": 3,
+        "cleaned_text": "I'm running around like a fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fuck",
+        "features": {
+            "people": [],
+            "places": [],
+            "objects": [
+                "a fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fuck"
+            ],
+            "actions": [
+                "run"
+            ],
+            "emotion": "calm and neutral"
+        },
+        "generated_prompt": "In the dream, the dreamer run. The mood feels calm and neutral. Important objects mentioned include a fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fuck. The dream has a vivid and surreal quality."
+    },
+    {
+        "index": 4,
+        "cleaned_text": "Let's see... I'm having a hard time remembering it. It was just everyday things that I do. I was talking with people, trying to figure out...umm...what I needed to do for... Umm...something about having to do with work, about having to work on something. Let's see... (start second part) Yea it was like just watching myself going through motions of daily task and trying to figure out different things; different problems.",
+        "features": {
+            "people": [],
+            "places": [],
+            "objects": [
+                "a hard time",
+                "just everyday things",
+                "people",
+                "work",
+                "second part",
+                "motions",
+                "daily task",
+                "different things",
+                "different problems"
+            ],
+            "actions": [
+                "see",
+                "figure",
+                "watch",
+                "go",
+                "need",
+                "start",
+                "work",
+                "talk",
+                "remember",
+                "let",
+                "try"
+            ],
+            "emotion": "calm and neutral"
+        },
+        "generated_prompt": "In the dream, the dreamer see, figure, watch, go, need, start, work, talk, remember, let, try. The mood feels calm and neutral. Important objects mentioned include a hard time, just everyday things, people, work, second part, motions, daily task, different things, different problems. The dream has a vivid and surreal quality."
+    }
+]
