@@ -121,4 +121,4 @@ Python · PyTorch · Hugging Face Transformers · Diffusers · MNE-Python · sen
 ## Credits
 
 - Dataset: Zhang, J., & Wamsley, E. J. (2019). *EEG predictors of dreaming outside of REM sleep.* Psychophysiology, 56(7), e13368. Distributed through the DREAM database (CC BY 4.0).
-- Group project at IE University. Mateo Perdomo, Oscar Martinez, Jaime Calventi, Juan Sebastian Marcial, Louis Petitdidier.
+- Group project at IE University. Mayer Attie, Mateo Perdomo, Oscar Martinez, Jaime Calventi, Juan Sebastian Marcial, Louis Petitdidier.
